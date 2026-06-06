@@ -42,7 +42,7 @@ Built with Next.js, MediaPipe, and the Web Audio API.
 └── package.json        # Project dependencies and scripts
 ```
 
-##Prerequisites
+## Prerequisites
 
 - **Node.js** (v18 or higher)
 - **npm** (v9 or higher)
@@ -64,3 +64,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## 📄 License
 This project is licensed under the GNU General Public License v3.0.
+
+## Author
+Built by [deepanshiruhil](https://github.com/deepanshiruhil)
