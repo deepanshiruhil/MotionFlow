@@ -31,6 +31,9 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
+        <footer className="text-center py-4 text-sm" style={{ color: '#a07060' }}>
+          made with ♥ by deepanshi ruhil
+        </footer>
       </body>
     </html>
   );
