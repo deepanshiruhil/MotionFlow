@@ -47,3 +47,17 @@ Built with Next.js, MediaPipe, and the Web Audio API.
 - **Node.js** (v18 or higher)
 - **npm** (v9 or higher)
 - **A Webcam** (for hand tracking functionality)
+
+##Setup & Installation
+
+Install Dependencies
+
+npm install
+Run the Development Server
+
+npm run dev
+Open http://localhost:3000 with your browser to see the result.
+
+## 📄License
+
+This project is licensed under the GNU General Public License v3.0.
