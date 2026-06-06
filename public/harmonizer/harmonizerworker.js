@@ -1,9 +1,3 @@
-/**
- * This file was originally part of Blob Opera: Enhanced Edition
- * Created by David Li with Google Arts & Culture, with modifications by yell0wsuit.
- *
- * Licensed under the GNU General Public License v3.0
- */
 !(function (e) {
     var t = {};
     function r(n) {
