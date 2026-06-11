@@ -26,7 +26,7 @@ export default function Home() {
       {/* Title */}
       <div className="mt-32 md:mt-40 z-10 text-center">
         <h1 className="text-6xl md:text-8xl tracking-tight mb-4">
-          Motion Wave
+          Motion Flow
         </h1>
         <p className="text-base md:text-lg opacity-80 max-w-2xl mx-auto not-italic">
           Control the rhythm with your hands.<br />
@@ -71,7 +71,7 @@ export default function Home() {
       <button
         onClick={() => setIsAboutOpen(true)}
         className="fixed bottom-8 right-8 z-50 w-12 h-12 bg-black text-[#F5F5DC] rounded-full flex items-center justify-center text-2xl shadow-lg hover:scale-110 transition-transform cursor-pointer"
-        aria-label="About Motion Wave"
+        aria-label="About Motion Flow"
       >
         ?
       </button>
