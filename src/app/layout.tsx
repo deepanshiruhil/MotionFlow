@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Motion Wave",
+  title: "Motion Flow",
   description: "Control the rhythm with your hands. Powered by a machine learning neural network for real-time harmony generation.",
   icons: {
     icon: '/tilde_logo.svg',

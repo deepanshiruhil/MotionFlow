@@ -24,7 +24,7 @@ export default function AboutModal({ isOpen, onClose }: AboutModalProps) {
 
         {/* Header */}
         <div className="relative z-10 px-8 pt-8 flex justify-between items-start">
-          <h2 className="text-4xl tracking-tight text-black">About Motion Wave</h2>
+          <h2 className="text-4xl tracking-tight text-black">About Motion Flow</h2>
           <button
             onClick={onClose}
             className="p-2 hover:opacity-60 transition-opacity text-2xl cursor-pointer"
@@ -39,7 +39,7 @@ export default function AboutModal({ isOpen, onClose }: AboutModalProps) {
           <section>
             <h3 className="text-xl font-bold mb-2 not-italic underline decoration-1 underline-offset-4">Concept</h3>
             <p className="opacity-90 leading-relaxed">
-              Motion Wave is an experimental musical interface that allows you to conduct a virtual choir with your hands.
+              Motion Flow is an experimental musical interface that allows you to conduct a virtual choir with your hands.
               It transforms your gestures into rich, real-time SATB harmony.
             </p>
           </section>

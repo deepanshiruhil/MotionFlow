@@ -499,7 +499,7 @@ export default function HandGestureTracker({ initialHandPreference, onBack }: Ha
           </button>
 
           <h1 className="text-4xl md:text-5xl tracking-tight">
-            Motion Wave
+            Motion Flow
           </h1>
         </div>
 
@@ -649,7 +649,7 @@ export default function HandGestureTracker({ initialHandPreference, onBack }: Ha
       <button
         onClick={() => setIsAboutOpen(true)}
         className="fixed bottom-8 right-8 z-[60] w-12 h-12 bg-black text-[#F5F5DC] rounded-full flex items-center justify-center text-2xl shadow-lg hover:scale-110 transition-transform cursor-pointer"
-        aria-label="About Motion Wave"
+        aria-label="About Motion Flow"
       >
         ?
       </button>

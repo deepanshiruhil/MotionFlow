@@ -1,4 +1,4 @@
-# Motion Wave 
+# Motion Flow 
 A website using machine learning neural network that makes use of hands in order to create sounds
 
 Try it out [here](https://motionwavebydeepanshi.vercel.app).
